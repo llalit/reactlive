@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reactlive/static/css/main.c96cb906.chunk.css",
-    "main.js": "/reactlive/static/js/main.ad355214.chunk.js",
-    "main.js.map": "/reactlive/static/js/main.ad355214.chunk.js.map",
+    "main.css": "/reactlive/static/css/main.d3a19f69.chunk.css",
+    "main.js": "/reactlive/static/js/main.20df24d8.chunk.js",
+    "main.js.map": "/reactlive/static/js/main.20df24d8.chunk.js.map",
     "runtime-main.js": "/reactlive/static/js/runtime-main.02f7c19e.js",
     "runtime-main.js.map": "/reactlive/static/js/runtime-main.02f7c19e.js.map",
     "static/css/2.75c4ecca.chunk.css": "/reactlive/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.94459090.chunk.js": "/reactlive/static/js/2.94459090.chunk.js",
-    "static/js/2.94459090.chunk.js.map": "/reactlive/static/js/2.94459090.chunk.js.map",
+    "static/js/2.cd667e23.chunk.js": "/reactlive/static/js/2.cd667e23.chunk.js",
+    "static/js/2.cd667e23.chunk.js.map": "/reactlive/static/js/2.cd667e23.chunk.js.map",
     "index.html": "/reactlive/index.html",
-    "precache-manifest.ac69c3e7cd95953a9c3067f8b9d64439.js": "/reactlive/precache-manifest.ac69c3e7cd95953a9c3067f8b9d64439.js",
+    "precache-manifest.acf4a2cee4affdacb0a1da99ca8180f9.js": "/reactlive/precache-manifest.acf4a2cee4affdacb0a1da99ca8180f9.js",
     "service-worker.js": "/reactlive/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/reactlive/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.c96cb906.chunk.css.map": "/reactlive/static/css/main.c96cb906.chunk.css.map",
-    "static/js/2.94459090.chunk.js.LICENSE.txt": "/reactlive/static/js/2.94459090.chunk.js.LICENSE.txt",
+    "static/css/main.d3a19f69.chunk.css.map": "/reactlive/static/css/main.d3a19f69.chunk.css.map",
+    "static/js/2.cd667e23.chunk.js.LICENSE.txt": "/reactlive/static/js/2.cd667e23.chunk.js.LICENSE.txt",
     "static/media/h1.jpg": "/reactlive/static/media/h1.9aede523.jpg",
     "static/media/h2.jpg": "/reactlive/static/media/h2.c23e96d4.jpg",
     "static/media/logo.svg": "/reactlive/static/media/logo.5d5d9eef.svg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.02f7c19e.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.94459090.chunk.js",
-    "static/css/main.c96cb906.chunk.css",
-    "static/js/main.ad355214.chunk.js"
+    "static/js/2.cd667e23.chunk.js",
+    "static/css/main.d3a19f69.chunk.css",
+    "static/js/main.20df24d8.chunk.js"
   ]
 }
